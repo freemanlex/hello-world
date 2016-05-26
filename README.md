@@ -1,2 +1,3 @@
 # hello-world
-the first!
+Hi.
+I love Python and Java)
